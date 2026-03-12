@@ -80,10 +80,10 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.facebook.com/100003970618734" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="#" target="_blank">
+  <a href="mailTo:phamtuan241201@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
 </div>
