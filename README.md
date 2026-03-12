@@ -71,19 +71,19 @@
 <h6 align="center">You can find me on</h6>
 
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="#">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/342613117144137728" target="_blank">
+  <a href="https://discordapp.com/users/342613117144137728">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://t.me/phmtuns" target="_blank">
+  <a href="https://t.me/phmtuns">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://www.facebook.com/100003970618734" target="_blank">
+  <a href="https://www.facebook.com/100003970618734">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="mailTo:phamtuan241201@gmail.com" target="_blank">
+  <a href="mailto:phamtuan241201@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
 </div>
