@@ -26,7 +26,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img width="12" />
